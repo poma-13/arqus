@@ -1,0 +1,301 @@
+.listado-nav{
+    display: flex;
+    justify-content: space-evenly;
+ 
+}
+.titulo-tu-marca{
+    background-color: darkgreen;
+   
+    display: flex;
+    justify-content: center;
+    
+    font-size: 2rem;
+    flex-direction: column;
+    
+}
+
+.titulos-principales{
+    padding: 30px 0;
+}
+.tit-principal{
+    color: white;
+    text-align: right;
+}
+
+.contenido{
+    background-color: aqua;
+
+}
+
+.contenido-tit{
+    font-size: 33px;
+    padding: 21px 0px 21px 35px;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-color: black;
+    background-color: aqua;
+
+}
+.nuestros-proyectos{
+       display: flex;
+    justify-content: center;
+    padding: 24px 0px;
+    font-size: 31px;
+}
+.categoria{
+   
+    margin: 10px 16px 10px 16px;
+    
+}
+.categoria h3 a:hover{
+    color: rgb(107, 252, 252);
+
+}
+.categoria h3  a {
+    text-decoration: none;
+    
+}
+.name-proyecto:visited{
+    color: black;
+
+}
+
+
+.link{
+    text-decoration: none;
+}
+.link:visited{
+    color:black;
+}
+
+.link:hover{
+    color: rgb(107, 252, 252);
+}
+
+.ver-mas{
+    text-align: right;
+   
+}
+.boton-negro{
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    width: 172px;
+    display: inline-block;
+    padding-right: 7px;
+    border-radius: 20px;
+    margin-bottom: 22px;
+    text-align: center;
+}
+
+
+.boton-negro:hover{
+background-color:aqua;
+color: black;
+border-color:aqua;
+}
+ .div-boton-negro{
+    display: flex;
+    justify-content: flex-end;
+    padding: 15px;
+ }
+
+.testimoniales{
+    text-align: right;
+}
+
+.testimoniales a{
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    width: 172px;
+    display: inline-block;
+    padding-right: 25px;
+    border-radius: 20px;
+    margin-top: 22px;
+}
+
+
+.testimoniales a:hover{
+    background-color:aqua;
+    color: black;
+    border-color: aqua;
+
+}
+
+.imagen{
+
+    border-style: solid;
+    border-color: black;
+    background-color: aqua;
+
+}
+
+.img-dos{
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(77, 221, 221)
+}
+
+.saber-mas:visited{
+   color: black;
+}
+
+.saber-mas{
+    text-align: right;
+    display: block;
+    text-decoration: none;
+}
+.saber-mas:hover{
+    color: aqua;
+}
+
+
+img{
+    max-width: 100%;
+}
+
+.busqueda{
+    padding: 4px 27px 5px 27px;
+    background-color: white;
+    border-color: black;
+    cursor: pointer;
+    
+ 
+
+}
+
+.busqueda:hover{
+    background-color: aqua;
+    border-color: aqua
+}
+
+.cabeza{
+    border-style: solid;
+    border-color: black;
+   padding: 17px 11px 0px 23px;
+}
+
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 49px 7px 61px 8px;
+}
+
+.div-casos a{
+    text-decoration: none;
+    color:white;
+
+}
+
+.div-casos{
+    text-align: right;
+    border-style: solid;
+    text-align: right;
+    background: black;
+  
+    margin-left: 998px;
+    padding-right: 37px;
+    border-radius: 20px;
+    
+}
+
+.btn-flex-contenedor{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-bottom: 20px;
+}
+
+.footer-avajo{
+    padding-bottom: 100px;
+}
+
+
+.div-casos:hover{
+    background-color:aqua;
+    color: black;
+    border-color: aqua;
+}
+.listado-nav a{
+    text-decoration: none;
+
+}
+
+.estudio{
+    text-align: center;
+    padding: 50px 10px 50px 10px;
+}
+.colores{
+    background-color: rgb(141, 248, 248);
+    margin-bottom: 30px;
+}
+
+
+.celeste{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+
+.recuadro{
+    border-style: dotted;
+    text-align: center;
+    
+    padding: 15px;
+    
+}
+
+.amburgesa{
+    border-style: solid;
+    border-top: 3px;
+    border-color: black;
+    width: 32px;
+    margin: 3px;
+    margin-left: 107px; 
+}
+
+.menu-amburgesa{
+    padding: 5px 0px;
+}
+
+.menu-amburgesa:hover nav{
+    display: flex !important;
+    flex-direction: column;
+}
+.menu-amburgesa ul{
+    display: flex;
+    flex-direction: column;
+}
+.menu-amburgesa ul li{
+    padding:10px;
+    background-color:aqua;
+    
+
+}
+
+.menu-amburgesa ul li a{
+    color: red;
+}
+.menu-uno{
+    margin-top: -21px;
+    margin-bottom: -20px;
+
+}
+
+.cliente{
+    margin-top: 40px;
+    
+   
+
+}
